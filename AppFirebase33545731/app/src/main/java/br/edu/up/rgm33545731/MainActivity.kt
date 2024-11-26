@@ -1,6 +1,5 @@
 package br.edu.up.rgm33545731
 
-
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.Navigation
