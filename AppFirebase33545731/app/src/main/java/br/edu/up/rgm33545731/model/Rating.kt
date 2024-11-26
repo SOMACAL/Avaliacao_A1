@@ -1,4 +1,4 @@
-package br.edu.up.rgm33545731.model
+package br.edu.up.rgm33824215.model
 
 import android.text.TextUtils
 import com.google.firebase.auth.FirebaseUser

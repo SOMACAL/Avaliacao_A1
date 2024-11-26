@@ -1,9 +1,9 @@
-package br.edu.up.rgm33545731
+package br.edu.up.rgm33824215
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.Navigation
-import br.edu.up.rgm33545731.R
+import br.edu.up.rgm33824215.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

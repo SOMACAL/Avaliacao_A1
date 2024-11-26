@@ -1,7 +1,7 @@
-package br.edu.up.rgm33545731.viewmodel
+package br.edu.up.rgm33824215.viewmodel
 
 import androidx.lifecycle.ViewModel
-import br.edu.up.rgm33545731.Filters
+import br.edu.up.rgm33824215.Filters
 
 /**
  * ViewModel for [com.google.firebase.example.fireeats.MainActivity].

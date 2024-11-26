@@ -1,4 +1,4 @@
-package br.edu.up.rgm33545731.ui.theme
+package br.edu.up.rgm33824215.ui.theme
 
 import android.app.Activity
 import android.os.Build

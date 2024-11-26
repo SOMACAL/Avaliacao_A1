@@ -1,9 +1,10 @@
-package br.edu.up.rgm33545731.model
+package br.edu.up.rgm33824215.model
 
 import com.google.firebase.firestore.IgnoreExtraProperties
 
-
-
+/**
+ * Restaurant POJO.
+ */
 @IgnoreExtraProperties
 data class Restaurant(
     var name: String? = null,

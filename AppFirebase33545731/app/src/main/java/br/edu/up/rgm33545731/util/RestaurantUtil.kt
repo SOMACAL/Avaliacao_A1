@@ -1,4 +1,4 @@
-package br.edu.up.rgm33545731.util
+package br.edu.up.rgm33824215.util
 
 import android.content.Context
 import br.edu.up.rgm33824215.R

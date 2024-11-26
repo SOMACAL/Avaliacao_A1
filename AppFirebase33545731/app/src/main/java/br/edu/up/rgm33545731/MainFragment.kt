@@ -1,4 +1,4 @@
-package br.edu.up.rgm33545731
+package br.edu.up.rgm33824215
 
 import android.app.Activity
 import android.os.Bundle
@@ -22,11 +22,11 @@ import com.firebase.ui.auth.FirebaseAuthUIActivityResultContract
 import com.firebase.ui.auth.data.model.FirebaseAuthUIAuthenticationResult
 import com.google.android.material.snackbar.Snackbar
 import com.google.firebase.auth.ktx.auth
-import br.edu.up.rgm33545731.databinding.FragmentMainBinding
-import br.edu.up.rgm33545731.adapter.RestaurantAdapter
-import br.edu.up.rgm33545731.model.Restaurant
-import br.edu.up.rgm33545731.util.RestaurantUtil
-import br.edu.up.rgm33545731.viewmodel.MainActivityViewModel
+import br.edu.up.rgm33824215.databinding.FragmentMainBinding
+import br.edu.up.rgm33824215.adapter.RestaurantAdapter
+import br.edu.up.rgm33824215.model.Restaurant
+import br.edu.up.rgm33824215.util.RestaurantUtil
+import br.edu.up.rgm33824215.viewmodel.MainActivityViewModel
 import com.google.firebase.firestore.DocumentSnapshot
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.FirebaseFirestoreException
