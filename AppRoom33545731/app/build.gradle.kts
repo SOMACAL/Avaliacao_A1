@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "br.edu.up.rgm33824215"
+    namespace = "br.edu.up.rgm33545731"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "br.edu.up.rgm33824215"
+        applicationId = "br.edu.up.rgm33545731"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

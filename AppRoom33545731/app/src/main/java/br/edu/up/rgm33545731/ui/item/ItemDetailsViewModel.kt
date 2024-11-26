@@ -19,7 +19,7 @@ package br.edu.up.rgm33545731.ui.item
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import br.edu.up.rgm33824215.data.ItemsRepository
+import br.edu.up.rgm33545731.data.ItemsRepository
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.filterNotNull

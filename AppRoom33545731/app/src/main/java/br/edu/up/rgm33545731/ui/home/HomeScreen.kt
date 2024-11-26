@@ -1,4 +1,4 @@
-package br.edu.up.rgm33824215.ui.home
+package br.edu.up.rgm33545731.ui.home
 
 import InventoryTheme
 import androidx.compose.foundation.clickable
@@ -35,12 +35,12 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import br.edu.up.rgm33824215.InventoryTopAppBar
-import br.edu.up.rgm33824215.R
-import br.edu.up.rgm33824215.data.Item
-import br.edu.up.rgm33824215.ui.AppViewModelProvider
-import br.edu.up.rgm33824215.ui.item.formatedPrice
-import br.edu.up.rgm33824215.ui.navigation.NavigationDestination
+import br.edu.up.rgm33545731.InventoryTopAppBar
+import br.edu.up.rgm33545731.R
+import br.edu.up.rgm33545731.data.Item
+import br.edu.up.rgm33545731.ui.AppViewModelProvider
+import br.edu.up.rgm33545731.ui.item.formatedPrice
+import br.edu.up.rgm33545731.ui.navigation.NavigationDestination
 
 object HomeDestination : NavigationDestination {
     override val route = "home"

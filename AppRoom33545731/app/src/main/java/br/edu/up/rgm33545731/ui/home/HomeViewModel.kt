@@ -1,10 +1,10 @@
-package br.edu.up.rgm33824215.ui.home
+package br.edu.up.rgm33545731.ui.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import br.edu.up.rgm33824215.data.Item
+import br.edu.up.rgm33545731.data.Item
 import kotlinx.coroutines.flow.StateFlow
-import br.edu.up.rgm33824215.data.ItemsRepository
+import br.edu.up.rgm33545731.data.ItemsRepository
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.stateIn
