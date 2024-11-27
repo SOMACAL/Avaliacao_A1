@@ -1,4 +1,4 @@
-package br.edu.up.rgm33824215.model
+package br.edu.up.rgm33545731.model
 
 import com.google.firebase.firestore.IgnoreExtraProperties
 
