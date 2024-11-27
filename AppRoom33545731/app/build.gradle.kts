@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "br.edu.up.rgm33545731"
+    namespace = "br.edu.up.rgm33824215"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "br.edu.up.rgm33545731"
+        applicationId = "br.edu.up.rgm33824215"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
@@ -70,3 +70,4 @@ dependencies {
     implementation("androidx.room:room-runtime:${rootProject.extra["room_version"]}")
     ksp("androidx.room:room-compiler:${rootProject.extra["room_version"]}")
     implementation("androidx.room:room-ktx:${rootProject.extra["room_version"]}")
+}
