@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.DialogFragment
-import br.edu.up.rgm33824215.databinding.DialogFiltersBinding
+import br.edu.up.rgm33545731.databinding.DialogFiltersBinding
 //import com.google.firebase.example.fireeats.databinding.DialogFiltersBinding
 import br.edu.up.rgm33545731.model.Restaurant
 import com.google.firebase.firestore.Query
