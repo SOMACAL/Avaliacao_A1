@@ -1,14 +1,14 @@
-package br.edu.up.rgm33824215.adapter
+package br.edu.up.rgm33545731.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import br.edu.up.rgm33824215.R
+import br.edu.up.rgm33545731.R
 import br.edu.up.rgm33824215.databinding.ItemRestaurantBinding
 import com.bumptech.glide.Glide
 
-import br.edu.up.rgm33824215.model.Restaurant
-import br.edu.up.rgm33824215.util.RestaurantUtil
+import br.edu.up.rgm33545731.model.Restaurant
+import br.edu.up.rgm33545731.util.RestaurantUtil
 import com.google.firebase.firestore.DocumentSnapshot
 import com.google.firebase.firestore.Query
 import com.google.firebase.firestore.ktx.toObject
