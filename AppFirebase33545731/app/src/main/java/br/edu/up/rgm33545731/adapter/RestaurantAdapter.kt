@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import br.edu.up.rgm33545731.R
-import br.edu.up.rgm33824215.databinding.ItemRestaurantBinding
+import br.edu.up.rgm33545731.databinding.ItemRestaurantBinding
 import com.bumptech.glide.Glide
 
 import br.edu.up.rgm33545731.model.Restaurant
