@@ -1,4 +1,4 @@
-package br.edu.up.rgm33824215.ui.theme
+package br.edu.up.rgm33545731.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
