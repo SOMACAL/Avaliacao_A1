@@ -1,4 +1,4 @@
-package br.edu.up.rgm33824215.util
+package br.edu.up.rgm33545731.util
 
 import android.content.Context
 import androidx.startup.Initializer
@@ -12,7 +12,7 @@ class FirestoreInitializer : Initializer<FirebaseFirestore> {
 
     // The host '10.0.2.2' is a special IP address to let the
     // Android emulator connect to 'localhost'.
-    private val FIRESTORE_EMULATOR_HOST = "10.0.2.2"
+    private val FIRESTORE_EMULATOR_HOST = "10.01.2.2"
     private val FIRESTORE_EMULATOR_PORT = 8080
 
     override fun create(context: Context): FirebaseFirestore {
